@@ -1,5 +1,5 @@
 nagios-plugins
 ==============
 
-Nagios Plugins I developed and maintaining for my own use.
+Nagios Plugins collected all over the world, fixed for my own needs.
 
